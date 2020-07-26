@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA A&E" tvg-logo="" group-title="Canada",CA A&E
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59584
+#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="CA ABC_Spark" tvg-logo="" group-title="Canada",CA ABC_Spark
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59583
+#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA AMC" tvg-logo="" group-title="Canada",CA AMC
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59575
+#EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="CA Animal Planet" tvg-logo="" group-title="Canada",CA Animal Planet
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59356
+#EXTINF:-1 tvg-id="BET.ca" tvg-name="CA BET" tvg-logo="" group-title="Canada",CA BET
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59360
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="CA Canal Savoir" tvg-logo="" group-title="Canada",CA Canal Savoir
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59363
+#EXTINF:-1 tvg-id="CartoonNetwork.ca" tvg-name="CA Cartoon Network" tvg-logo="" group-title="Canada",CA Cartoon Network
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59570
+#EXTINF:-1 tvg-id="CasaTV.ca" tvg-name="CA CASA (FR)" tvg-logo="" group-title="Canada",CA CASA (FR)
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59365
+#EXTINF:-1 tvg-id="CBC.ca" tvg-name="CA CBC" tvg-logo="" group-title="Canada",CA CBC
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59366
+#EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CA CHCH" tvg-logo="" group-title="Canada",CA CHCH
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59567
+#EXTINF:-1 tvg-id="CMT.ca" tvg-name="CA CMT" tvg-logo="" group-title="Canada",CA CMT
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59565
+#EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="CA COTTAGE LIFE" tvg-logo="" group-title="Canada",CA COTTAGE LIFE
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59397
+#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="CA CP24 (Backup)" tvg-logo="" group-title="Canada",CA CP24 (Backup)
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59398
+#EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA Crime & Investigation" tvg-logo="" group-title="Canada",CA Crime & Investigation
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59403
+#EXTINF:-1 tvg-id="" tvg-name="CA CTV COMEDY" tvg-logo="" group-title="Canada",CA CTV COMEDY
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59612
+#EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA CTV Drama" tvg-logo="" group-title="Canada",CA CTV Drama
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59630
+#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-name="CA CTV HALIFAX" tvg-logo="" group-title="Canada",CA CTV HALIFAX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59407
+#EXTINF:-1 tvg-id="" tvg-name="CA CTV_Two_Atlantic" tvg-logo="" group-title="Canada",CA CTV_Two_Atlantic
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59609
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA Discovery Channel" tvg-logo="" group-title="Canada",CA Discovery Channel
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59607
+#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="CA DISCOVERY SCIENCE" tvg-logo="" group-title="Canada",CA DISCOVERY SCIENCE
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59421
+#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="CA Disney Channel" tvg-logo="" group-title="Canada",CA Disney Channel
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59606
+#EXTINF:-1 tvg-id="DisneyJunior.ca" tvg-name="CA Disney Junior" tvg-logo="" group-title="Canada",CA Disney Junior
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59579
+#EXTINF:-1 tvg-id="DoItYourselfNetwork.ca" tvg-name="CA DIY Network" tvg-logo="" group-title="Canada",CA DIY Network
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59604
+#EXTINF:-1 tvg-id="EEntertainment.ca" tvg-name="CA E! Entertainment Television" tvg-logo="" group-title="Canada",CA E! Entertainment Television
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59602
+#EXTINF:-1 tvg-id="FamilyChannel.ca" tvg-name="CA FAMILY" tvg-logo="" group-title="Canada",CA FAMILY
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59600
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="CA Fight Network" tvg-logo="" group-title="Canada",CA Fight Network
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59598
+#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="CA Food Network" tvg-logo="" group-title="Canada",CA Food Network
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59632
+#EXTINF:-1 tvg-id="FoxSportsRacing.ca" tvg-name="CA Fox Sports Racing" tvg-logo="" group-title="USA Fox Sports",CA Fox Sports Racing
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59646
+#EXTINF:-1 tvg-id="FXNow.ca" tvg-name="CA FX" tvg-logo="" group-title="Canada",CA FX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59647
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA FXX" tvg-logo="" group-title="Canada",CA FXX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59648
+#EXTINF:-1 tvg-id="FYI.ca" tvg-name="CA FYI" tvg-logo="" group-title="Canada",CA FYI
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59597
+#EXTINF:-1 tvg-id="GameTV.ca" tvg-name="CA Game TV" tvg-logo="" group-title="Canada",CA Game TV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59596
+#EXTINF:-1 tvg-id="globalhalifax.ca" tvg-name="CA GLOBAL HALIFAX" tvg-logo="" group-title="Canada",CA GLOBAL HALIFAX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59425
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CA GOLF" tvg-logo="" group-title="Canada",CA GOLF
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59594
+#EXTINF:-1 tvg-id="HBO.ca" tvg-name="CA HBO 1" tvg-logo="" group-title="Canada",CA HBO 1
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59432
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA HBO 2" tvg-logo="" group-title="Canada",CA HBO 2
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59433
+#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA HGTV" tvg-logo="" group-title="Canada",CA HGTV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59593
+#EXTINF:-1 tvg-id="HistoryChannel.ca" tvg-name="CA History Channel" tvg-logo="" group-title="Canada",CA History Channel
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59592
+#EXTINF:-1 tvg-id="HLN.ca" tvg-name="CA HLN" tvg-logo="" group-title="Canada",CA HLN
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59591
+#EXTINF:-1 tvg-id="MovieTime.ca" tvg-name="CA MovieTime" tvg-logo="" group-title="Canada",CA MovieTime
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59649
+#EXTINF:-1 tvg-id="MTV.ca" tvg-name="CA MTV" tvg-logo="" group-title="Canada",CA MTV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59617
+#EXTINF:-1 tvg-id="MTV2.ca" tvg-name="CA MTV 2" tvg-logo="" group-title="Canada",CA MTV 2
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59454
+#EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA MUCH_MUSIC" tvg-logo="" group-title="Canada",CA MUCH_MUSIC
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59618
+#EXTINF:-1 tvg-id="TheShoppingChannel.ca" tvg-name="CA SHOPPING" tvg-logo="" group-title="Canada",CA SHOPPING
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59468
+#EXTINF:-1 tvg-id="SilverScreenClassics.ca" tvg-name="CA SILVER SCREEN CLASSICS" tvg-logo="" group-title="Canada",CA SILVER SCREEN CLASSICS
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59469
+#EXTINF:-1 tvg-id="Slice.ca" tvg-name="CA SLICE" tvg-logo="" group-title="Canada",CA SLICE
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59634
+#EXTINF:-1 tvg-id="ParamountNetwork.ca" tvg-name="CA SPIKE TV / PARAMOUNT" tvg-logo="" group-title="Canada",CA SPIKE TV / PARAMOUNT
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59470
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="CA YES TV" tvg-logo="" group-title="Canada",CA YES TV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59642
+#EXTINF:-1 tvg-id="Yoopa.ca" tvg-name="CA YOOPA (FR)" tvg-logo="" group-title="Canada",CA YOOPA (FR)
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59561
+#EXTINF:-1 tvg-id="YTV.ca" tvg-name="CA YTV" tvg-logo="" group-title="Canada",CA YTV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59640
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="USA Galavision" tvg-logo="" group-title="USA Latin",USA Galavision
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58088
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="USA A&E" tvg-logo="" group-title="USA",USA A&E
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58089
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="USA Adult Swim West" tvg-logo="" group-title="USA",USA Adult Swim West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59102
+#EXTINF:-1 tvg-id="HeroesAndIconsTV.us" tvg-name="USA American Heroes" tvg-logo="" group-title="USA Documentary",USA American Heroes
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58182
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="USA Animal Planet West" tvg-logo="" group-title="USA Documentary",USA Animal Planet West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58187
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="USA Antena" tvg-logo="" group-title="USA",USA Antena
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58188
+#EXTINF:-1 tvg-id="AspireTV.us" tvg-name="USA Aspire" tvg-logo="" group-title="USA",USA Aspire
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58189
+#EXTINF:-1 tvg-id="AWealthofEntertainment.us" tvg-name="USA AWE" tvg-logo="" group-title="USA",USA AWE
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58191
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="USA AXS TV" tvg-logo="" group-title="USA",USA AXS TV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58192
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="USA Baby First" tvg-logo="" group-title="USA Kids & Family",USA Baby First
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58195
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="USA Baby First LHD" tvg-logo="" group-title="USA Kids & Family",USA Baby First LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58193
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="USA Baby TV" tvg-logo="" group-title="USA Kids & Family",USA Baby TV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58194
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="USA Big Ten Network UHD" tvg-logo="" group-title="USA Sports",USA Big Ten Network UHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58223
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="USA Bloomberg UHD" tvg-logo="" group-title="USA News",USA Bloomberg UHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58224
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="USA BOUNCE TV" tvg-logo="" group-title="USA",USA BOUNCE TV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58228
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="USA Bravo" tvg-logo="" group-title="USA",USA Bravo
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58229
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="USA Cartoon Network East" tvg-logo="" group-title="USA Kids & Family",USA Cartoon Network East
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58234
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="USA CBS Boston WBZ" tvg-logo="" group-title="USA Locals",USA CBS Boston WBZ
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58242
+#EXTINF:-1 tvg-id="CBS4KCNC.us" tvg-name="USA CBS Denver KCNC" tvg-logo="" group-title="USA Locals",USA CBS Denver KCNC
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58250
+#EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="USA CBS Hartford WFSB" tvg-logo="" group-title="USA Locals",USA CBS Hartford WFSB
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58255
+#EXTINF:-1 tvg-id="CBSKFMB.us" tvg-name="USA CBS San Diego KFMB" tvg-logo="" group-title="USA Locals",USA CBS San Diego KFMB
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58274
+#EXTINF:-1 tvg-id="KPIX.us" tvg-name="USA CBS San Francisco KPIX" tvg-logo="" group-title="USA Locals",USA CBS San Francisco KPIX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58276
+#EXTINF:-1 tvg-id="CBSKIRO.us" tvg-name="USA CBS Seattle KIRO" tvg-logo="" group-title="USA Locals",USA CBS Seattle KIRO
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58277
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="USA CINEMAX ACTION MAX EAST" tvg-logo="" group-title="USA Network Movies",USA CINEMAX ACTION MAX EAST
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59101
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="USA Cinemax East" tvg-logo="" group-title="USA Network Movies",USA Cinemax East
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58293
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="USA CINEMAX MORE MAX" tvg-logo="" group-title="USA Network Movies",USA CINEMAX MORE MAX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59097
+#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="USA CINEMAX MOVIEMAX" tvg-logo="" group-title="USA Network Movies",USA CINEMAX MOVIEMAX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59100
+#EXTINF:-1 tvg-id="OuterMax.us" tvg-name="USA CINEMAX OUTER MAX" tvg-logo="" group-title="USA Network Movies",USA CINEMAX OUTER MAX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59099
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="USA Cinemax West" tvg-logo="" group-title="USA Network Movies",USA Cinemax West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58296
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="USA CMT UHD" tvg-logo="" group-title="USA",USA CMT UHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58298
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="USA CNBC SD" tvg-logo="" group-title="USA News",USA CNBC SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58301
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="USA CNN" tvg-logo="" group-title="USA News",USA CNN
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58305
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="USA Comedy Central East SD" tvg-logo="" group-title="USA",USA Comedy Central East SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58311
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="USA Comet" tvg-logo="" group-title="USA",USA Comet
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58313
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="USA Cooking Channel" tvg-logo="" group-title="USA Documentary",USA Cooking Channel
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58315
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="USA Cozi TV" tvg-logo="" group-title="USA",USA Cozi TV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58316
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="USA Crime & Investigation Network" tvg-logo="" group-title="USA",USA Crime & Investigation Network
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58318
+#EXTINF:-1 tvg-id="CW57WPSG.us" tvg-name="USA CW East Philadelphia UHD" tvg-logo="" group-title="USA Locals",USA CW East Philadelphia UHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58319
+#EXTINF:-1 tvg-id="WKBD.us" tvg-name="USA CW East SD" tvg-logo="" group-title="USA",USA CW East SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58320
+#EXTINF:-1 tvg-id="CWWNUV.us" tvg-name="USA CW WNUV (Baltimore)" tvg-logo="" group-title="USA Locals",USA CW WNUV (Baltimore)
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58321
+#EXTINF:-1 tvg-id="WPCW.us" tvg-name="USA CW19 (WPCW) Pittsburgh" tvg-logo="" group-title="USA Locals",USA CW19 (WPCW) Pittsburgh
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58326
+#EXTINF:-1 tvg-id="CWKMAX.us" tvg-name="USA CW31 (KMAX) Sacramento" tvg-logo="" group-title="USA Locals",USA CW31 (KMAX) Sacramento
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58330
+#EXTINF:-1 tvg-id="CWKVCW.us" tvg-name="USA CW33 (KVCW) Las Vegas" tvg-logo="" group-title="USA Locals",USA CW33 (KVCW) Las Vegas
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58331
+#EXTINF:-1 tvg-id="WKBD.us" tvg-name="USA CW50 (WKBD) Detroit" tvg-logo="" group-title="USA Locals",USA CW50 (WKBD) Detroit
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58337
+#EXTINF:-1 tvg-id="WUPA.us" tvg-name="USA CW69 (WUPA) Atlanta" tvg-logo="" group-title="USA Locals",USA CW69 (WUPA) Atlanta
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58342
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="USA Destination America" tvg-logo="" group-title="USA Documentary",USA Destination America
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58344
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="USA Discovery Family" tvg-logo="" group-title="USA Kids & Family",USA Discovery Family
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58350
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="USA Discovery Life" tvg-logo="" group-title="USA Documentary",USA Discovery Life
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58351
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="USA DIY Network" tvg-logo="" group-title="USA",USA DIY Network
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58376
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="USA Eleven Sports Network" tvg-logo="" group-title="USA Sports",USA Eleven Sports Network
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58383
+#EXTINF:-1 tvg-id="EPIX.us" tvg-name="USA Epix" tvg-logo="" group-title="USA Network Movies",USA Epix
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58385
+#EXTINF:-1 tvg-id="EpixDriveIn.us" tvg-name="USA EPIX Drive-In" tvg-logo="" group-title="USA Network Movies",USA EPIX Drive-In
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58386
+#EXTINF:-1 tvg-id="EPIXHits.us" tvg-name="USA EPIX Hits LHD" tvg-logo="" group-title="USA Network Movies",USA EPIX Hits LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58387
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="USA Food Network West" tvg-logo="" group-title="USA",USA Food Network West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58414
+#EXTINF:-1 tvg-id="FOXWOFL.us" tvg-name="USA Fox Orlando WOFL" tvg-logo="" group-title="USA Locals",USA Fox Orlando WOFL
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58461
+#EXTINF:-1 tvg-id="FOXWTXF.us" tvg-name="USA Fox Philadelphia WTXF" tvg-logo="" group-title="USA Locals",USA Fox Philadelphia WTXF
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58462
+#EXTINF:-1 tvg-id="FOX10KSAZ.us" tvg-name="USA Fox Phoenix KSAZ" tvg-logo="" group-title="USA Locals",USA Fox Phoenix KSAZ
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58463
+#EXTINF:-1 tvg-id="WPGH.us" tvg-name="USA Fox Pittsburgh WPGH" tvg-logo="" group-title="USA Locals",USA Fox Pittsburgh WPGH
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58464
+#EXTINF:-1 tvg-id="FOXKTXL.us" tvg-name="USA FOX Sacramento KTXL" tvg-logo="" group-title="USA Locals",USA FOX Sacramento KTXL
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58465
+#EXTINF:-1 tvg-id="KSTU.us" tvg-name="USA Fox Salt Lake City KSTU" tvg-logo="" group-title="USA Locals",USA Fox Salt Lake City KSTU
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58466
+#EXTINF:-1 tvg-id="FoxKABB.us" tvg-name="USA Fox San Antonio KABB" tvg-logo="" group-title="USA Locals",USA Fox San Antonio KABB
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58467
+#EXTINF:-1 tvg-id="FOXKSWB.us" tvg-name="USA FOX San Diego KSWB" tvg-logo="" group-title="USA Locals",USA FOX San Diego KSWB
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58468
+#EXTINF:-1 tvg-id="FOXKTVU.us" tvg-name="USA Fox San Francisco KTVU" tvg-logo="" group-title="USA Locals",USA Fox San Francisco KTVU
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58469
+#EXTINF:-1 tvg-id="FuseTV.us" tvg-name="USA Fuse TV" tvg-logo="" group-title="USA",USA Fuse TV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58534
+#EXTINF:-1 tvg-id="Fusion.us" tvg-name="USA Fusion" tvg-logo="" group-title="USA",USA Fusion
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58535
+#EXTINF:-1 tvg-id="FX.us" tvg-name="USA FX" tvg-logo="" group-title="USA",USA FX
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58537
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="USA Grit TV" tvg-logo="" group-title="USA",USA Grit TV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58555
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="USA GSN SD" tvg-logo="" group-title="USA",USA GSN SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58556
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="USA Hallmark Movies & Mysteries LHD" tvg-logo="" group-title="USA Network Movies",USA Hallmark Movies & Mysteries LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58567
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="USA HBO" tvg-logo="" group-title="USA Network Movies",USA HBO
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58568
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="USA HBO 2 East UHD" tvg-logo="" group-title="USA Network Movies",USA HBO 2 East UHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58569
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="USA HBO Comedy" tvg-logo="" group-title="USA Network Movies",USA HBO Comedy
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59094
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="USA HBO East LHD" tvg-logo="" group-title="USA Network Movies",USA HBO East LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58570
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="USA HBO Zone" tvg-logo="" group-title="USA Network Movies",USA HBO Zone
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59096
+#EXTINF:-1 tvg-id="HeroesAndIconsTV.us" tvg-name="USA Heroes and Icons" tvg-logo="" group-title="USA",USA Heroes and Icons
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58576
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="USA HGTV East" tvg-logo="" group-title="USA",USA HGTV East
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58577
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="USA HLN UHD" tvg-logo="" group-title="USA",USA HLN UHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58586
+#EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-name="USA IFC" tvg-logo="" group-title="USA",USA IFC
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58587
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="USA Investigation Discovery ID SD" tvg-logo="" group-title="USA Documentary",USA Investigation Discovery ID SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58591
+#EXTINF:-1 tvg-id="WINP.us" tvg-name="USA ION" tvg-logo="" group-title="USA",USA ION
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59103
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="USA Lifetime East SD" tvg-logo="" group-title="USA",USA Lifetime East SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58639
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="USA Lifetime Movie Network SD" tvg-logo="" group-title="USA Network Movies",USA Lifetime Movie Network SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58642
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="USA Longhorn Network LHD" tvg-logo="" group-title="USA",USA Longhorn Network LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58644
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="USA MAVTV" tvg-logo="" group-title="USA",USA MAVTV
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58645
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="USA MotorTrend LHD" tvg-logo="" group-title="USA Documentary",USA MotorTrend LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58651
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="USA MSG" tvg-logo="" group-title="USA Sports",USA MSG
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58653
+#EXTINF:-1 tvg-id="MadisonSquareGardenPlus.us" tvg-name="USA MSGPlus" tvg-logo="" group-title="USA Sports",USA MSGPlus
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58656
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="USA MSNBC" tvg-logo="" group-title="USA News",USA MSNBC
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58657
+#EXTINF:-1 tvg-id="MY13KCOP.us" tvg-name="USA My 13 Los Angeles" tvg-logo="" group-title="USA",USA My 13 Los Angeles
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58694
+#EXTINF:-1 tvg-id="MY20KTXH.us" tvg-name="USA MY 20 Houston KTXH" tvg-logo="" group-title="USA",USA MY 20 Houston KTXH
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59024
+#EXTINF:-1 tvg-id="MY28WRDC.us" tvg-name="USA My 28 WRDC" tvg-logo="" group-title="USA",USA My 28 WRDC
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58697
+#EXTINF:-1 tvg-id="My9WWOR.us" tvg-name="USA My 9 New Jersey" tvg-logo="" group-title="USA",USA My 9 New Jersey
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58695
+#EXTINF:-1 tvg-id="MY24WVTV.us" tvg-name="USA MY25 (WFGX) Alabama" tvg-logo="" group-title="USA",USA MY25 (WFGX) Alabama
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58698
+#EXTINF:-1 tvg-id="WBFS.us" tvg-name="USA MY30 (WUXP) Nashville" tvg-logo="" group-title="USA",USA MY30 (WUXP) Nashville
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58699
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="USA MY49 (WNYO) Buffalo" tvg-logo="" group-title="USA",USA MY49 (WNYO) Buffalo
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58705
+#EXTINF:-1 tvg-id="KSMO.us" tvg-name="USA MyNet (WHP-DT) Harrisburg" tvg-logo="" group-title="USA",USA MyNet (WHP-DT) Harrisburg
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58710
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="USA National Geographic East LHD" tvg-logo="" group-title="USA Documentary",USA National Geographic East LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58711
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="USA National Geographic Wild SD" tvg-logo="" group-title="USA Documentary",USA National Geographic Wild SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58717
+#EXTINF:-1 tvg-id="WHEC.us" tvg-name="USA NBC 10 Rochester  WHEC" tvg-logo="" group-title="USA Locals",USA NBC 10 Rochester  WHEC
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59112
+#EXTINF:-1 tvg-id="NBCKING.us" tvg-name="USA NBC Seattle KING" tvg-logo="" group-title="USA Locals",USA NBC Seattle KING
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58774
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="USA Nick Toon UHD" tvg-logo="" group-title="USA Kids & Family",USA Nick Toon UHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58816
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="USA Nickelodeon East SD" tvg-logo="" group-title="USA Kids & Family",USA Nickelodeon East SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58817
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="USA One American News Network" tvg-logo="" group-title="USA News",USA One American News Network
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58820
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="USA Oprah Winfrey Network LHD" tvg-logo="" group-title="USA",USA Oprah Winfrey Network LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58821
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="USA Outdoor_Channel" tvg-logo="" group-title="USA",USA Outdoor_Channel
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58823
+#EXTINF:-1 tvg-id="Ovation.us" tvg-name="USA Ovation" tvg-logo="" group-title="USA",USA Ovation
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58826
+#EXTINF:-1 tvg-id="SDPB4PBSKids.us" tvg-name="USA PBS Kids" tvg-logo="" group-title="USA Kids & Family",USA PBS Kids
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58844
+#EXTINF:-1 tvg-id="Peachtree.ca" tvg-name="USA Peachtree (WPCH) Atlanta" tvg-logo="" group-title="USA",USA Peachtree (WPCH) Atlanta
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58845
+#EXTINF:-1 tvg-id="PopTV.us" tvg-name="USA POP" tvg-logo="" group-title="USA",USA POP
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58846
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="USA Showtime Extreme" tvg-logo="" group-title="USA Network Movies",USA Showtime Extreme
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58862
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="USA Showtime Family Zone" tvg-logo="" group-title="USA Network Movies",USA Showtime Family Zone
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58863
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="USA Showtime Next" tvg-logo="" group-title="USA Network Movies",USA Showtime Next
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58864
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="USA Showtime Showcase" tvg-logo="" group-title="USA Network Movies",USA Showtime Showcase
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58865
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="USA Showtime West" tvg-logo="" group-title="USA Network Movies",USA Showtime West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58866
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="USA Showtime Women" tvg-logo="" group-title="USA Network Movies",USA Showtime Women
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58867
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="USA Smithsonian Channel" tvg-logo="" group-title="USA Documentary",USA Smithsonian Channel
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58868
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="USA Sony Movie Channel" tvg-logo="" group-title="USA Network Movies",USA Sony Movie Channel
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58870
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="USA Start TV LHD" tvg-logo="" group-title="USA",USA Start TV LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58879
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="USA Starz Cinema" tvg-logo="" group-title="USA Network Movies",USA Starz Cinema
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58880
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="USA Starz Comedy" tvg-logo="" group-title="USA Network Movies",USA Starz Comedy
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58881
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="USA Starz Edge" tvg-logo="" group-title="USA Network Movies",USA Starz Edge
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58885
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="USA Starz Encore Action" tvg-logo="" group-title="USA Network Movies",USA Starz Encore Action
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58886
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="USA Starz Encore Black" tvg-logo="" group-title="USA Network Movies",USA Starz Encore Black
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58887
+#EXTINF:-1 tvg-id="StarzEncoreClassics.us" tvg-name="USA Starz Encore Classic" tvg-logo="" group-title="USA Network Movies",USA Starz Encore Classic
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58888
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="USA Starz Encore East" tvg-logo="" group-title="USA Network Movies",USA Starz Encore East
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58889
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="USA Starz Encore Family" tvg-logo="" group-title="USA Network Movies",USA Starz Encore Family
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58890
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="USA Starz Encore Suspense" tvg-logo="" group-title="USA Network Movies",USA Starz Encore Suspense
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58891
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="USA Starz Encore West" tvg-logo="" group-title="USA Network Movies",USA Starz Encore West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58892
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="USA Starz Encore Westerns" tvg-logo="" group-title="USA Network Movies",USA Starz Encore Westerns
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58893
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="USA Starz in Black" tvg-logo="" group-title="USA Network Movies",USA Starz in Black
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58894
+#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="USA Starz Kids & Family" tvg-logo="" group-title="USA Kids & Family",USA Starz Kids & Family
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58895
+#EXTINF:-1 tvg-id="StarzWest.us" tvg-name="USA Starz West (FHD)" tvg-logo="" group-title="USA",USA Starz West (FHD)
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58896
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="USA Sundance" tvg-logo="" group-title="USA",USA Sundance
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58897
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="USA TLC West" tvg-logo="" group-title="USA",USA TLC West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59023
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="USA TNT West" tvg-logo="" group-title="USA",USA TNT West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58961
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="USA truTV West LHD" tvg-logo="" group-title="USA",USA truTV West LHD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58972
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="USA Turner Classic Movies TCM" tvg-logo="" group-title="USA Network Movies",USA Turner Classic Movies TCM
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58973
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="USA TV One" tvg-logo="" group-title="USA",USA TV One
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58974
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Usa Network West" tvg-logo="" group-title="USA",USA Usa Network West
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/58999
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="USA VH1 SD" tvg-logo="" group-title="USA",USA VH1 SD
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/59001
+#EXTINF:-1 tvg-id="CTV2Ottawa.ca" tvg-name="CA CTV 2 (Ottawa)" tvg-logo="http://pvserver.link:8080/images/a4c11115fc3a933d4d2ee7101170c6ff.png" group-title="Canada",CA CTV 2 (Ottawa)
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86492
+#EXTINF:-1 tvg-id="WEWSTV4.us" tvg-name="USA Court TV Mystery" tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2019/09/de673470-mystery_sizzle_final.mp4.00_00_09_15.still001-300x169.jpg" group-title="USA Locals",USA Court TV Mystery
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86532
+#EXTINF:-1 tvg-id="JusticeCentral.us" tvg-name="USA Justice Central" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/justice-central.png" group-title="USA Locals",USA Justice Central
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86533
+#EXTINF:-1 tvg-id="ElRey.us" tvg-name="USA El Ray" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/El_Rey_Network.png" group-title="USA Locals",USA El Ray
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86534
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="USA MTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/1200px-MTV2_logo_2013.svg.png" group-title="USA Music",USA MTV 2
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86540
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="USA MTV Classic" tvg-logo="https://pbs.twimg.com/profile_images/758707568726409216/KwH5g1D3_400x400.jpg" group-title="USA Music",USA MTV Classic
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86541
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="USA MTV Live" tvg-logo="https://i.ytimg.com/vi/8Txc4eRgews/hqdefault.jpg" group-title="USA Music",USA MTV Live
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86542
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="USA MTV U" tvg-logo="https://xunewswire.files.wordpress.com/2015/10/mtvu.jpg" group-title="USA Music",USA MTV U
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86543
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="USA VH1 Classic" tvg-logo="" group-title="USA Music",USA VH1 Classic
+http://pvserver.link:8080/4Z7cwQZgJY/2057873275/86544
